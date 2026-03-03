@@ -10,11 +10,11 @@
 
 *这里是其他朋友的故事和留言的地方。欢迎在下方添加您的想法！*
 
-<!-- 
+<!--    & lt; !--   & lt; !--!--  !--  !--  
 👇 请在此行下方使用上面显示的提示框格式添加您的消息。
 每条消息应包含您的姓名/昵称和日期。
 请保持消息的礼貌和尊重，符合我们的行为准则。
--->
+-->   ——比;
 
 ::: tip aibito - 某创业公司后端开发 - 2025-05-18
 我们是一家只有 15 人的小公司，之前一直想做智能客服但技术门槛太高。发现 Nexent 后如获至宝！20+ 文件格式支持让我们轻松处理用户上传的各种文档，多模态对话功能完美解决了语音客服需求。最重要的是，我们的产品经理现在也能直接用自然语言调整智能体逻辑，开发效率提升了好几倍！
@@ -32,11 +32,11 @@
 我们小公司想做客服机器人，之前技术门槛太高了。nexent的多文件格式支持真的帮了大忙，产品经理现在也能自己调智能体了哈哈
 :::
 
-::: info saladjay - 清华大学计算机系 - 2025-06-15
+::: info saladjay - 清华大学计算机系 - 2025-06-15::: info saladjay - Department of Computer Science, Tsinghua University - 2025-06-15::: info saladjay - Department of Computer Science, Tsinghua University - 2025-06-15 :::：：： 信息：萨拉杰 - 清华大学计算机系 - 2025 年 6 月 15信息：萨拉杰 - 清华大学计算机科学系 - 2025 年 6 月 15信息：萨拉杰 - 清华大学计算机科学系 - 2025 年 6 月 1::: info saladjay - Department of Computer Science, Tsinghua University - June 15, 2025 :::::: info saladjay - Department of Computer Science, Tsinghua University - June 15, 2025 :::
 第一次接触开源项目就是 Nexent！作为 AI 专业的研究生，看到"零代码生成智能体"的概念就被吸引了。用自然语言就能创建智能体，这对我做自定义的学术研究挺方便的。现在我用 Nexent 搭建了一个论文总结助手，MCP 工具生态系统让集成各种学术数据库变得超级简单。
 :::
 
-::: warning researcher_anon - 2025-06-20
+::: warning researcher_anon - 2025-06-20：：： 警告 研究员匿名 - 2025 年 6 月 20 日::: warning researcher_anon - 2025-06-20: Warning Researcher Anonymous - June 20, 2025::: warning researcher_anon - 2025-06-20: Warning Researcher Anonymous - June 20, 2025 :::警告 研究员匿名 - 2025 年 6 月 20 日Warning Researcher Anonymous - June 20, 2025
 搞多智能体研究的，看到知识溯源功能眼前一亮。做了个论文审查系统，还挺有用的
 :::
 
@@ -52,7 +52,7 @@
 终于不用写prd了哈哈，直接用自然语言描述需求，开发同事都说清楚多了
 :::
 
-::: danger DTAstack - 无名氏 - 2025-07-20
+::: danger DTAstack - 无名氏 - 2025-07-20::: danger DTAstack - Anonymous - 2025-07-20
 研究多智能体协作方向，Nexent 的多智能体协同功能让我眼前一亮。特别是知识溯源和引用验证，这在学术研究中太重要了。我用 Nexent 搭建了一个学术论文自动审查系统，能够自动验证引用来源、检查逻辑一致性。开源的力量真的很强大，希望更多研究者能加入进来！
 :::
 
@@ -60,19 +60,19 @@
 就是来留个脚印 👍 项目不错，给个star~
 :::
 
-::: info ai_lover - 2025-07-28  
+::: info ai_lover - 2025-07-28：：： 信息 ai_lover - 2025-07-28  
 零代码真的做到了！我就说了句话就做出来智能体，pdf word都能处理，太强了
 :::
 
-::: info cokefish - 2025-08-05
+::: info cokefish - 2025-08-05：：： 信息 烈焰鱼 - 2025-08-05::: info cokefish - August 5, 2025 : : : Info Flamefish - August 5, 2025：：： 信息 烈焰鱼 - 2025 年 8 月 5 信息 烈焰鱼 - 2025 年 8 月 5 日::: info cokefish - August 5, 2025 : : : Info Flamefish - August 5, 2025::: Info Flamefish - August 5, 2025::: info cokefish - August 5, 2025 : : : Info Flamefish - August 5, 2025::: Info Flamefish - August 5, 2025
 Nexent的自然语言生成Agent以及多智能体协同是我一直在研究的方向，AI的护城河，个人一直认为是提示词和上下文，AI如同有霸王之力的幼儿，提示词教会他如何使用力量，而上下文让他能记住，Agent是包裹三者的容器，Nexent则赋予Agent更多的可能性
 :::
 
-::: info focus - AI应用开发工程师 - 2025-08-07
+::: info focus - AI应用开发工程师 - 2025-08-07::: info focus - AI Application Development Engineer - 2025-08-07::: info focus - AI Application Development Engineer - 2025-08-07 :::：：： 重要提示 - AI 应用开发工程师 - 2025 年 8 月  重要提示 - AI 应用开发工程师 - 2025 年 8 月 7 日：：： 重要提示 - AI 应用开发工程师 - 2025 年 8 月 7 日 ：：：
 零代码开发Agent的想法太有趣了，同时这个开源社区的氛围很好，希望能贡献自己的一份力量。
 :::
 
-::: info Puppet - 2025-08-08
+::: info Puppet - 2025-08-08：：： 信息 木偶 - 2025 年 8 月 8 日
 🌟来尝试使用论文阅读工具，项目很不错！
 :::
 
@@ -357,7 +357,7 @@ Nexent功能如此之强大，给我很多帮助，感谢开发者！厉害
 感谢 Nexent 让我踏上了开源之旅！也希望参加ict大赛时能够学到更多知识，能够做出好的项目！研究完这个项目之后觉得真的不错，赞！
 :::
 
-::: info user - 2025-11-11
+::: info user - 2025-11-11：：： 信息 用户 - 2025-11-11
 感谢 Nexent 让我踏上了开源之旅！平台开发智能体的能力十分强大，希望能够学习到更多东西！
 :::
 
@@ -541,7 +541,7 @@ Nexent加油
 感谢Nexent为智能体开发提出了更多可能！
 :::
 
-::: info user - 2025-11-26
+::: info user - 2025-11-26：：： 信息 用户 - 2025-11-26
 祝nexent平台越做越胡奥
 :::
 
@@ -549,7 +549,7 @@ Nexent加油
 感谢 Nexent, 可以让我快速上手构建智能体，祝越来越好！
 :::
 
-::: info user - 2025-11-27
+::: info user - 2025-11-27：：： 信息 用户 - 2025-11-27
 祝Nexent平台越做越好
 :::
 
@@ -608,7 +608,7 @@ Nexent开发者加油
 祝nexent平台越来越好
 :::
 
-::: info zmu.1s - 2025-12-04
+::: info zmu.1s - 2025-12-04：：： 信息 zmu.1s - 2025-12-04
 打ICT大赛接触到了Nexent平台，祝越来越好！
 :::
 
